@@ -1,11 +1,5 @@
-# -*- coding: cp1254 -*-
-"""
-print ""
-\t\t\tHESAP MAKÝNESÝ\t\t\t\n
-\t\t\t1-TOPLAMA ÝÞLEMÝ\n
-\t\t\t2-ÇIKARMA ÝÞLEMÝ\n
-\t\t\t3-BÖLME ÝÞLEMÝ\n
-\t\t\t4-ÇARPMA ÝÞLEMÝ\n
+# -*- codingkaljsdlkjasdjlkajkdlak
+asdlkajsdjklaljksdE:qi  MÝ\n
 ""
 
 a=1
